@@ -193,6 +193,8 @@ These two problems represent the most technically demanding challenges of the co
 ## 📂 Repository Structure (Typical)
 
 ```
+├── technology_olympiad_certificate.pdf
+│
 ├── task1_teapricing/
 │   ├── notebook.ipynb
 │   └── result.zip
