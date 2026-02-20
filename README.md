@@ -6,6 +6,8 @@ We proudly achieved **Rank 21 nationwide** among top teams. 🚀
 
 The competition focused on real-world machine learning problems, combining data science, engineering, and creative modeling.
 
+![my certificate](technology_olympiad_certificate.jpg)
+
 ---
 
 ## 📌 Task 1 — TeaOverflowError
